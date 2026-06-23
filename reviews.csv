@@ -1,0 +1,10 @@
+text,sentiment
+"I love this product",positive
+"This is terrible",negative
+"It's okay, not great",neutral
+"Absolutely fantastic experience",positive
+"Would not recommend",negative
+"Best purchase ever",positive
+"Awful service",negative
+"Quite decent overall",neutral
+
